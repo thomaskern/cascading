@@ -48,6 +48,7 @@ public interface InputData
   String testDelimited = inputPath + "delimited.txt";
   String testDelimitedHeader = inputPath + "delimited-header.txt";
   String testDelimitedSpecialCharData = inputPath + "delimited-spec-char.txt";
+  String testDelimitedQuotesHeader = inputPath + "delimited-quoted.txt";
 
   String inputFileComments = inputPath + "comments+lower.txt";
   }
